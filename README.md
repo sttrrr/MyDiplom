@@ -1,16 +1,14 @@
 # mydiplom
 
-A new Flutter project.
+Выпускная квалификационная работа на тему: разработка мобильного приложения для анализа состояния здоровья и прогноза диагноза с использованием машинного обучения
+![image](https://github.com/sttrrr/MyDiplom/assets/79934304/4ffdcff4-65a9-46ab-b914-768635cf4566)
+![image](https://github.com/sttrrr/MyDiplom/assets/79934304/522e2277-b255-4bfa-b7a3-ed3302429460)
+![image](https://github.com/sttrrr/MyDiplom/assets/79934304/95014eb2-abb9-4d8c-b84b-5e57138697ea)
+![image](https://github.com/sttrrr/MyDiplom/assets/79934304/723c872a-a922-49d0-89c9-dcd524102be3)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## О проекта
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+В работе использована API ChatGPT
+ Планируется доработка
